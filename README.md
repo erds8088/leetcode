@@ -12,3 +12,4 @@
 |--------|-----|----|
 |[102-Binary Tree Level Order Traversal](./102_Binary%20Tree%20Level%20Order%20Traversal)|`Medium`| 2018/11/13|
 |[283-Move Zeroes](./283_Move%20Zeroes)|`Easy`|2018/11/14|
+|[112-Path Sum](./112_Path%20Sum)|`Easy`|2018/11/14|

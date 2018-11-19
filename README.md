@@ -15,3 +15,4 @@
 |[112-Path Sum](./112_Path%20Sum)|`Easy`|2018/11/14|
 |[61-Rotate List](./61_Rotate%20List)|`Medium`|2018/11/15|
 |[443-String Compression](./443_String%20Compression)|`Easy`|2018/11/19|
+|[724-Find Pivot Index](./724_Find%20Pivot%20Index)|`Easy`|2018/11/19|

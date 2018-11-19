@@ -18,4 +18,5 @@
 |[724-Find Pivot Index](./724_Find_Pivot_Index)|`Easy`|2018/11/19|
 |[82-Remove Duplicates from Sorted List II](./82_Remove_Duplicates_from_Sorted_List_II)|`Medium`|2018/11/19|
 |[101-Symmetric Tree](./101_Symmetric_Tree)|`Easy`|2018/11/19|
+|[804-Unique Morse Code Words](./804_Unique_Morse_Code_Words)|`Easy`|2018/11/19|
 

@@ -16,3 +16,4 @@
 |[61-Rotate List](./61_Rotate%20List)|`Medium`|2018/11/15|
 |[443-String Compression](./443_String%20Compression)|`Easy`|2018/11/19|
 |[724-Find Pivot Index](./724_Find%20Pivot%20Index)|`Easy`|2018/11/19|
+|[82-Remove Duplicates from Sorted List II](./Remove%20Duplicates%20from%20Sorted%20List%20II)|`Medium`|2018/11/19|

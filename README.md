@@ -21,3 +21,4 @@
 |[804-Unique Morse Code Words](./804_Unique_Morse_Code_Words)|`Easy`|2018/11/19|
 |[17-Letter Combinations of a Phone Number](./17_Letter_Combinations_of_a_Phone_Number)|`Medium`|2018/11/20|
 |[150-Evaluate Reverse Polish Notation](./150_Evaluate_Reverse_Polish_Notation)|`Medium`|2018/11/20|
+|[53-Maximum Subarray](./53_Maximum_Subarray)|`Easy`|2018/11/20|

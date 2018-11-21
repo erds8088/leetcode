@@ -23,3 +23,4 @@
 |[150-Evaluate Reverse Polish Notation](./150_Evaluate_Reverse_Polish_Notation)|`Medium`|2018/11/20|
 |[53-Maximum Subarray](./53_Maximum_Subarray)|`Easy`|2018/11/20|
 |[77-Combinations](./77_Combinations)|`Medium`|2018/11/20|
+|[46-Permutations](./46_Permutations)|`Medium`|2018/11/21|

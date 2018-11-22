@@ -27,3 +27,5 @@
 |[412-Fizz Buzz](./412_Fizz_Buzz)|`Easy`|2018/11/22|
 |[856-Score of Parentheses](./856_Score_of_Parentheses)|`Medium`|2018/11/22|
 |[21-Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists)|`Easy`|2018/11/22|
+|[206-Reverse Linked List](./206_Reverse_Linked_List)|`Easy`|2018/11/22|
+

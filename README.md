@@ -25,4 +25,5 @@
 |[77-Combinations](./77_Combinations)|`Medium`|2018/11/20|
 |[46-Permutations](./46_Permutations)|`Medium`|2018/11/21|
 |[412-Fizz Buzz](./412_Fizz_Buzz)|`Easy`|2018/11/22|
-|[856_Score_of_Parentheses](./856_Score_of_Parentheses)|`Medium`|2018/11/22|
+|[856-Score of Parentheses](./856_Score_of_Parentheses)|`Medium`|2018/11/22|
+|[21-Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists)|`Easy`|2018/11/22|

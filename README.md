@@ -24,3 +24,4 @@
 |[53-Maximum Subarray](./53_Maximum_Subarray)|`Easy`|2018/11/20|
 |[77-Combinations](./77_Combinations)|`Medium`|2018/11/20|
 |[46-Permutations](./46_Permutations)|`Medium`|2018/11/21|
+|[412-Fizz Buzz](./412_Fizz_Buzz)|`Easy`|2018/11/22|

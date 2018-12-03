@@ -29,3 +29,4 @@
 |[21-Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists)|`Easy`|2018/11/22|
 |[206-Reverse Linked List](./206_Reverse_Linked_List)|`Easy`|2018/11/22|
 |[1-Two Sum](./1_Two_Sum)|`Easy`|2018/12/03|
+|[2-Add Two Numbers](./2_Add_Two_Numbers)|`Medium`|2018/12/03|

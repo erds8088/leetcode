@@ -28,4 +28,4 @@
 |[856-Score of Parentheses](./856_Score_of_Parentheses)|`Medium`|2018/11/22|
 |[21-Merge Two Sorted Lists](./21_Merge_Two_Sorted_Lists)|`Easy`|2018/11/22|
 |[206-Reverse Linked List](./206_Reverse_Linked_List)|`Easy`|2018/11/22|
-
+|[1-Two Sum](./1_Two_Sum)|`Easy`|2018/12/03|
